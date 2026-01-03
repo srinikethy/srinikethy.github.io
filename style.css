@@ -1,0 +1,12 @@
+ .header{
+            background-color: rgb(230, 215, 6);
+            color: rgb(9, 9, 9);
+        }
+.footer{
+            background-color: rgb(84, 84, 178);
+            color: rgb(74, 200, 20);
+        }
+.container{
+    margin: 0px;
+}
+*
