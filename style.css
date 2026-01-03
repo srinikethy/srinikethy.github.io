@@ -1,12 +1,18 @@
  .header{
-            background-color: rgb(230, 215, 6);
-            color: rgb(9, 9, 9);
+            display: flex;
+            background-color: rgba(2, 48, 147, 0.636);
+            color: rgb(190, 167, 167);
         }
 .footer{
-            background-color: rgb(84, 84, 178);
+            background-color: rgb(124, 107, 22);
             color: rgb(74, 200, 20);
         }
 .container{
     margin: 0px;
 }
-*
+*{
+    margin: 0px;
+}
+.menu{
+    display: flex;
+}
